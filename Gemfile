@@ -6,6 +6,8 @@ gem 'pg'
 gem 'figaro'
 gem 'jbuilder', '~> 2.0'
 gem 'devise'
+gem 'sqlite3', '~> 1.3', '>= 1.3.11'
+
 
 gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails'
